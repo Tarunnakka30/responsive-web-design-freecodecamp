@@ -8,4 +8,5 @@
 <ul>
   <li>Survey Form - <a href="https://tarunnakka30.github.io/survey-form-freeCodeCamp/">Page</a> | <a href="https://github.com/Tarunnakka30/survey-form-freeCodeCamp">Repository</a></li>
   <li>Tribute Page - <a href="https://tarunnakka30.github.io/tribute-page-freeCodeCamp/">Page</a> | <a href="https://github.com/Tarunnakka30/tribute-page-freeCodeCamp">Repository</a></li>
+  <li>Technical Documentation Page - <a href="https://tarunnakka30.github.io/technical-documentation-page-freeCodeCamp//">Page</a> | <a href="https://github.com/Tarunnakka30/technical-documentation-page-freeCodeCamp">Repository</a></li>
 </ul>
